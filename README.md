@@ -21,9 +21,12 @@
 
 ## Demo
 
+### Mobile version
 ![YouTube 2.0](screenshots/mobile.png)
+
+### PC version
 ![YouTube 2.0](screenshots/pc.png)
-![YouTube 2.0](screenshots/web.png)
+
 
 ---
 
