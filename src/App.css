@@ -1,0 +1,23 @@
+/*-----------------------------------*\
+  #App.css
+\*-----------------------------------*/
+
+/**
+ * copyright 2024 Oumarou Sanda Souley for Woila Tech
+
+  https://www.github.com/OumarouSandaSouley
+  Email: oumarousandasouleyofficial@gmail.com
+  Tel: +237690726925
+ */
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
+ .main::-webkit-scrollbar{
+  width: 0px !important;
+ }
+ .main::-webkit-scrollbar-thumb{
+  background: #fff;
+ }
+ .main::-webkit-scrollbar-track{
+  background: #fff;
+ }
